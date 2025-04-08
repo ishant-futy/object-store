@@ -1,6 +1,6 @@
 {
   "manifestVersion": "1",
   "name": "PlayFuty",
-  "url": "https://app-dev.playfuty.com",
+  "url": "http://localhost:5173",
   "iconUrl": "https://www.playfuty.com/futy.png"
 }
